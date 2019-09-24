@@ -1,6 +1,6 @@
 {
-  "name": "egg-kafka",
-  "version": "1.0.0",
+  "name": "egg-kafka-nodemailer",
+  "version": "1.1.0",
   "description": "egg-kafka-node",
   "eggPlugin": {
     "name": "kafka"
@@ -11,7 +11,8 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "kafka-node": "^4.0.0"
+    "kafka-node": "^4.0.0",
+    "nodemailer": "^6.3.0"
   },
   "devDependencies": {
     "autod": "^3.0.0",
@@ -47,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-kafka.git"
+    "url": "git+https://github.com/zhangjianfang19910327/egg-kafka.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/zhangjianfang19910327/egg-kafka/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-kafka#readme",
+  "homepage": "https://github.com/zhangjianfang19910327/egg-kafka#readme",
   "author": "zjf",
   "license": "MIT"
 }
