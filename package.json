@@ -1,7 +1,7 @@
 {
-  "name": "egg-kafka-nodemailer",
-  "version": "1.1.0",
-  "description": "egg-kafka-node",
+  "name": "egg-kafka-email",
+  "version": "0.0.1",
+  "description": "egg-kafka-nodemailer",
   "eggPlugin": {
     "name": "kafka"
   },
